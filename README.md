@@ -1,4 +1,7 @@
 ### hi
+17 y/o
+software development student
+
 ![mudkips](mudkip.jpeg)
 
 <!--
