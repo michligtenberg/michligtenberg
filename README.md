@@ -1,5 +1,5 @@
 ### hi
-17 y/o  
+18 y/o  
 software development student
 
 ![mudkips](mudkip.jpeg)
